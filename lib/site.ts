@@ -1,7 +1,7 @@
 export const site = {
   name: "동부중량",
   englishName: "DONGBU HEAVY",
-  url: "https://www.dongbuheavy.co.kr", // 실제 도메인으로 변경
+  url: "https://dongbu.vercel.app",
   description:
     "동부중량은 중량물 이전, 기업 이전, 공장 이전, 산업설비 이전 및 대형 중량물 운송 전문 기업입니다. 안전과 기술력을 바탕으로 현장에 맞는 최적의 설비·기계 이전 솔루션을 제공합니다.",
   telephone: "031-455-9900",
