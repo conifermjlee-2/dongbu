@@ -5,7 +5,7 @@ export const site = {
   description:
     "동부중량은 산업설비 이전과 대형 중량물 운송을 위한 전문 서비스를 제공합니다. 안전과 기술력을 바탕으로 현장에 맞는 중량물 이전 솔루션을 제안합니다.",
   telephone: "031-455-9900",
-  address: "", // 실제 주소 입력
+  address: "경기 수원시 권선구 경수대로 193",
 };
 
 export const services = [
